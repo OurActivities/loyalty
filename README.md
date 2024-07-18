@@ -1,2 +1,2 @@
-# loyalty
-Loyalty
+loyalty
+# Loyalty
